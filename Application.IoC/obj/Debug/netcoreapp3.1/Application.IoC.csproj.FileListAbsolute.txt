@@ -1,0 +1,17 @@
+C:\ProjetoMarquesSoftware\ProjetoDDD_Entityframework_Dapper\Application.IoC\bin\Debug\netcoreapp3.1\Application.IoC.deps.json
+C:\ProjetoMarquesSoftware\ProjetoDDD_Entityframework_Dapper\Application.IoC\bin\Debug\netcoreapp3.1\Application.IoC.dll
+C:\ProjetoMarquesSoftware\ProjetoDDD_Entityframework_Dapper\Application.IoC\bin\Debug\netcoreapp3.1\Application.IoC.pdb
+C:\ProjetoMarquesSoftware\ProjetoDDD_Entityframework_Dapper\Application.IoC\bin\Debug\netcoreapp3.1\Application.dll
+C:\ProjetoMarquesSoftware\ProjetoDDD_Entityframework_Dapper\Application.IoC\bin\Debug\netcoreapp3.1\Application.Interfaces.dll
+C:\ProjetoMarquesSoftware\ProjetoDDD_Entityframework_Dapper\Application.IoC\bin\Debug\netcoreapp3.1\Domain.dll
+C:\ProjetoMarquesSoftware\ProjetoDDD_Entityframework_Dapper\Application.IoC\bin\Debug\netcoreapp3.1\Infrastructure.Interfaces.dll
+C:\ProjetoMarquesSoftware\ProjetoDDD_Entityframework_Dapper\Application.IoC\bin\Debug\netcoreapp3.1\Application.Interfaces.pdb
+C:\ProjetoMarquesSoftware\ProjetoDDD_Entityframework_Dapper\Application.IoC\bin\Debug\netcoreapp3.1\Application.pdb
+C:\ProjetoMarquesSoftware\ProjetoDDD_Entityframework_Dapper\Application.IoC\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\ProjetoMarquesSoftware\ProjetoDDD_Entityframework_Dapper\Application.IoC\bin\Debug\netcoreapp3.1\Infrastructure.Interfaces.pdb
+C:\ProjetoMarquesSoftware\ProjetoDDD_Entityframework_Dapper\Application.IoC\obj\Debug\netcoreapp3.1\Application.IoC.csprojAssemblyReference.cache
+C:\ProjetoMarquesSoftware\ProjetoDDD_Entityframework_Dapper\Application.IoC\obj\Debug\netcoreapp3.1\Application.IoC.AssemblyInfoInputs.cache
+C:\ProjetoMarquesSoftware\ProjetoDDD_Entityframework_Dapper\Application.IoC\obj\Debug\netcoreapp3.1\Application.IoC.AssemblyInfo.cs
+C:\ProjetoMarquesSoftware\ProjetoDDD_Entityframework_Dapper\Application.IoC\obj\Debug\netcoreapp3.1\Application.IoC.csproj.CopyComplete
+C:\ProjetoMarquesSoftware\ProjetoDDD_Entityframework_Dapper\Application.IoC\obj\Debug\netcoreapp3.1\Application.IoC.dll
+C:\ProjetoMarquesSoftware\ProjetoDDD_Entityframework_Dapper\Application.IoC\obj\Debug\netcoreapp3.1\Application.IoC.pdb

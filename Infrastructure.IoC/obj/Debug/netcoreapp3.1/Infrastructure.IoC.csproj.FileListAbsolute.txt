@@ -1,0 +1,16 @@
+C:\ProjetoMarquesSoftware\ProjetoDDD_Entityframework_Dapper\Infrastructure.IoC\bin\Debug\netcoreapp3.1\appsettings.json
+C:\ProjetoMarquesSoftware\ProjetoDDD_Entityframework_Dapper\Infrastructure.IoC\bin\Debug\netcoreapp3.1\Infrastructure.IoC.deps.json
+C:\ProjetoMarquesSoftware\ProjetoDDD_Entityframework_Dapper\Infrastructure.IoC\bin\Debug\netcoreapp3.1\Infrastructure.IoC.dll
+C:\ProjetoMarquesSoftware\ProjetoDDD_Entityframework_Dapper\Infrastructure.IoC\bin\Debug\netcoreapp3.1\Infrastructure.IoC.pdb
+C:\ProjetoMarquesSoftware\ProjetoDDD_Entityframework_Dapper\Infrastructure.IoC\bin\Debug\netcoreapp3.1\Domain.dll
+C:\ProjetoMarquesSoftware\ProjetoDDD_Entityframework_Dapper\Infrastructure.IoC\bin\Debug\netcoreapp3.1\Infrastructure.dll
+C:\ProjetoMarquesSoftware\ProjetoDDD_Entityframework_Dapper\Infrastructure.IoC\bin\Debug\netcoreapp3.1\Infrastructure.Interfaces.dll
+C:\ProjetoMarquesSoftware\ProjetoDDD_Entityframework_Dapper\Infrastructure.IoC\bin\Debug\netcoreapp3.1\Infrastructure.pdb
+C:\ProjetoMarquesSoftware\ProjetoDDD_Entityframework_Dapper\Infrastructure.IoC\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\ProjetoMarquesSoftware\ProjetoDDD_Entityframework_Dapper\Infrastructure.IoC\bin\Debug\netcoreapp3.1\Infrastructure.Interfaces.pdb
+C:\ProjetoMarquesSoftware\ProjetoDDD_Entityframework_Dapper\Infrastructure.IoC\obj\Debug\netcoreapp3.1\Infrastructure.IoC.csprojAssemblyReference.cache
+C:\ProjetoMarquesSoftware\ProjetoDDD_Entityframework_Dapper\Infrastructure.IoC\obj\Debug\netcoreapp3.1\Infrastructure.IoC.AssemblyInfoInputs.cache
+C:\ProjetoMarquesSoftware\ProjetoDDD_Entityframework_Dapper\Infrastructure.IoC\obj\Debug\netcoreapp3.1\Infrastructure.IoC.AssemblyInfo.cs
+C:\ProjetoMarquesSoftware\ProjetoDDD_Entityframework_Dapper\Infrastructure.IoC\obj\Debug\netcoreapp3.1\Infrastructure.IoC.csproj.CopyComplete
+C:\ProjetoMarquesSoftware\ProjetoDDD_Entityframework_Dapper\Infrastructure.IoC\obj\Debug\netcoreapp3.1\Infrastructure.IoC.dll
+C:\ProjetoMarquesSoftware\ProjetoDDD_Entityframework_Dapper\Infrastructure.IoC\obj\Debug\netcoreapp3.1\Infrastructure.IoC.pdb

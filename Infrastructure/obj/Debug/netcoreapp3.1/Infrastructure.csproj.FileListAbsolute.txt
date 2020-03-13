@@ -1,0 +1,16 @@
+C:\ProjetoMarquesSoftware\ProjetoDDD_Entityframework_Dapper\Infrastructure\bin\Debug\netcoreapp3.1\appsettings.json
+C:\ProjetoMarquesSoftware\ProjetoDDD_Entityframework_Dapper\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.deps.json
+C:\ProjetoMarquesSoftware\ProjetoDDD_Entityframework_Dapper\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.runtimeconfig.json
+C:\ProjetoMarquesSoftware\ProjetoDDD_Entityframework_Dapper\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.runtimeconfig.dev.json
+C:\ProjetoMarquesSoftware\ProjetoDDD_Entityframework_Dapper\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.dll
+C:\ProjetoMarquesSoftware\ProjetoDDD_Entityframework_Dapper\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.pdb
+C:\ProjetoMarquesSoftware\ProjetoDDD_Entityframework_Dapper\Infrastructure\bin\Debug\netcoreapp3.1\Domain.dll
+C:\ProjetoMarquesSoftware\ProjetoDDD_Entityframework_Dapper\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.Interfaces.dll
+C:\ProjetoMarquesSoftware\ProjetoDDD_Entityframework_Dapper\Infrastructure\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\ProjetoMarquesSoftware\ProjetoDDD_Entityframework_Dapper\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.Interfaces.pdb
+C:\ProjetoMarquesSoftware\ProjetoDDD_Entityframework_Dapper\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csprojAssemblyReference.cache
+C:\ProjetoMarquesSoftware\ProjetoDDD_Entityframework_Dapper\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfoInputs.cache
+C:\ProjetoMarquesSoftware\ProjetoDDD_Entityframework_Dapper\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfo.cs
+C:\ProjetoMarquesSoftware\ProjetoDDD_Entityframework_Dapper\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.CopyComplete
+C:\ProjetoMarquesSoftware\ProjetoDDD_Entityframework_Dapper\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.dll
+C:\ProjetoMarquesSoftware\ProjetoDDD_Entityframework_Dapper\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.pdb
